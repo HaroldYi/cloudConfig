@@ -5,5 +5,5 @@ greeting : "Hi There"
 ---
 
 spring:
-  test:
+  profiles:test
 greeting:"테스트"
