@@ -1,1 +1,9 @@
 # cloudConfig
+
+greeting : "Hi There"
+
+---
+
+spring:
+  test:
+greeting:"테스트"
